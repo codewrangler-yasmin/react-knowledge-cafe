@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/LCfv88t/cover-01.jpg",
+    "title": "10 Best Practices for Writing Clean React Code",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co.com/MCKs1bM/author-01.jpg",
+    "posted_date": "October 20, 2024",
+    "reading_time": 8,
+    "hashtags": ["react", "best-practices", "clean-code", "frontend"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/dBJB4hK/cover-02.jpg",
+    "title": "Understanding CSS Grid: A Beginner's Guide",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co.com/ZmCrJTn/author-02.jpg",
+    "posted_date": "October 18, 2024",
+    "reading_time": 6,
+    "hashtags": ["css", "grid", "layout", "frontend"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/KKMQ1T7/cover-03.webp",
+    "title": "How to Optimize Your Webpack Config for Better Performance",
+    "author": "Alex Johnson",
+    "author_img": "https://i.ibb.co.com/YTpDH7t/author-03.jpg",
+    "posted_date": "October 15, 2024",
+    "reading_time": 10,
+    "hashtags": ["webpack", "performance", "optimization", "frontend"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co.com/SNTkDhg/cover-04.png",
+    "title": "Exploring New Features in JavaScript ES2024",
+    "author": "Emily Brown",
+    "author_img": "https://i.ibb.co.com/mT2HMSr/author-04.jpg",
+    "posted_date": "October 10, 2024",
+    "reading_time": 12,
+    "hashtags": ["javascript", "es2024", "new-features", "frontend"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co.com/TKgKG5b/cover-05.jpg",
+    "title": "A Complete Guide to Building Accessible Websites",
+    "author": "Michael Green",
+    "author_img": "https://i.ibb.co.com/LdDXvJz/author-05.jpg",
+    "posted_date": "October 5, 2024",
+    "reading_time": 9,
+    "hashtags": ["accessibility", "web-development", "frontend", "guide"]
+  }
+]
